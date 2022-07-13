@@ -5,3 +5,5 @@
 A stupidly minimalistic and beautiful app to score Brazilian Truco points
 ##
 [<img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge"/>](https://github.com/jolucas245/tentosapp/blob/main/LICENSE)
+[<img src="https://img.shields.io/badge/Language-Dart-lightblue?style=for-the-badge"/>](https://dart.dev)
+[<img src="https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge"/>](https://flutter.dev)
