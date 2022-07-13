@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/tentos/truco/tentosapp/BuildConfig.java
- com.tentos.truco.tentosapp.BuildConfig
