@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:nice_buttons/nice_buttons.dart';
-import 'package:tentosapp/app/src/widgets/alert_dialog_truco_widget.dart';
+import '../../src/widgets/alert_dialog_truco_widget.dart';
 import '../../src/widgets/card_marker_widget.dart';
 import '../../controllers/home_controller.dart';
 import '../../src/icons/suits_cards_icons.dart';
@@ -118,26 +118,26 @@ class _HomePageViewState extends State<HomePageView> {
                 ],
               ),
               const SizedBox(height: 50,),
-              NiceButtons(
-                onTap: (finish) => AlertDialogTruco.showCustomDialog(context), 
-                gradientOrientation: GradientOrientation.Horizontal,
-                stretch: false,
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: const [
-                    Icon(SuitsCards.diamonds, color: Colors.red),
-                    Text(
-                      "TRUCO", 
-                      style: TextStyle(
-                        color: Colors.white, 
-                        fontSize: 25, 
-                        fontWeight: FontWeight.bold
-                      )
-                    ),
-                    Icon(SuitsCards.clovers)
-                  ],
-                ),
-              )
+              // NiceButtons(
+              //   onTap: (finish) => AlertDialogTruco.showCustomDialog(context), 
+              //   gradientOrientation: GradientOrientation.Horizontal,
+              //   stretch: false,
+              //   child: Row(
+              //     mainAxisAlignment: MainAxisAlignment.center,
+              //     children: const [
+              //       Icon(SuitsCards.diamonds, color: Colors.red),
+              //       Text(
+              //         "TRUCO", 
+              //         style: TextStyle(
+              //           color: Colors.white, 
+              //           fontSize: 25, 
+              //           fontWeight: FontWeight.bold
+              //         )
+              //       ),
+              //       Icon(SuitsCards.clovers)
+              //     ],
+              //   ),
+              // )
             ],
           ),
         ],

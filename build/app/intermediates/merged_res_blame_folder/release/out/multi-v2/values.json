@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jolusca/Desktop/tentosapp/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/home/jolusca/Desktop/tentos-app/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/jolusca/Desktop/tentosapp/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/jolusca/Desktop/tentos-app/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

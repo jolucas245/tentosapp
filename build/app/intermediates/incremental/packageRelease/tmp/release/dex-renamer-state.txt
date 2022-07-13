@@ -1,4 +1,4 @@
-#Wed Jul 06 15:49:00 BRT 2022
-base.0=/home/jolusca/Desktop/tentosapp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+#Tue Jul 12 21:29:13 BRT 2022
+base.0=/home/jolusca/Desktop/tentos-app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

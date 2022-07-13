@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jolusca/Desktop/tentosapp/build/path_provider_android/intermediates/res/merged/release/values-uk/values-uk.xml",
+            "outputFile": "/home/jolusca/Desktop/tentos-app/build/path_provider_android/intermediates/res/merged/release/values-uk/values-uk.xml",
             "map": [
                 {
                     "source": "/home/jolusca/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/values-uk/values-uk.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/home/jolusca/Desktop/tentosapp/build/path_provider_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml",
+            "outputFile": "/home/jolusca/Desktop/tentos-app/build/path_provider_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml",
             "map": [
                 {
                     "source": "/home/jolusca/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/values-uk/values-uk.xml",

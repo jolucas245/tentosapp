@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is /home/jolusca/Desktop/tentosapp/build/app/intermediates/proguard-files/proguard-android.txt-4.1.0
+# The proguard configuration file for the following section is /home/jolusca/Desktop/tentos-app/build/app/intermediates/proguard-files/proguard-android.txt-4.1.0
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -110,7 +110,7 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from /home/jolusca/Desktop/tentosapp/build/app/intermediates/proguard-files/proguard-android.txt-4.1.0
+# End of content from /home/jolusca/Desktop/tentos-app/build/app/intermediates/proguard-files/proguard-android.txt-4.1.0
 # The proguard configuration file for the following section is /home/jolusca/development/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
 # Build the ephemeral app in a module project.
 # Prevents: Warning: library class <plugin-package> depends on program class io.flutter.plugin.**
@@ -121,12 +121,12 @@
 -dontwarn android.**
 
 # End of content from /home/jolusca/development/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
-# The proguard configuration file for the following section is /home/jolusca/Desktop/tentosapp/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# The proguard configuration file for the following section is /home/jolusca/Desktop/tentos-app/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 -keep class android.app.Application { <init>(); }
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class com.tentos.truco.tentosapp.MainActivity { <init>(); }
 
-# End of content from /home/jolusca/Desktop/tentosapp/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# End of content from /home/jolusca/Desktop/tentos-app/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 # The proguard configuration file for the following section is /home/jolusca/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/proguard.txt
 # Copyright (C) 2020 The Android Open Source Project
 #
