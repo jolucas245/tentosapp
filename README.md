@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <a href="https://github.com/jolucas245/tentosapp/releases/download/v1.0-ouros/tentos-v1.0.apk">
     <img src="https://user-images.githubusercontent.com/65248543/178760730-248a62ab-a414-437d-8392-4a2a943585ab.png"/>
   </a> 
