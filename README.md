@@ -35,8 +35,42 @@ Star ⭐ the repo if you like what you see 😄.
 * Click the apk download button
 
 ## How to running on Debug Mode
->Debug mode will be used if you want to fork the repository and/or modify the code with your ideas, or whatever, be damned. The tutorial below shows what you should do to run in debug mode. TRUCO
+>Debug mode will be used if you want to fork the repository and/or modify the code with your ideas, or whatever, be damned. <br>
+>The tutorial below shows what you should do to run in debug mode. TRUCO
 
-[<img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge"/>](https://github.com/jolucas245/tentosapp/blob/main/LICENSE)
-[<img src="https://img.shields.io/badge/Language-Dart-lightblue?style=for-the-badge"/>](https://dart.dev)
-[<img src="https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge"/>](https://flutter.dev)
+For running, i suppose that you have installed the <a href="https://flutter.dev/">Flutter SDK</a>, if not just click on the highlighted blue Flutter SDK.
+
+### 👣 Steps
+1. ##### Clone the repository:<br>
+```
+$ git clone https://github.com/jolucas245/tentosapp.git
+```
+
+2. ##### Enter the repository directory:
+```
+$ cd tentosapp/
+```
+
+3. ##### Update pubspec.yaml packages:
+```
+$ flutter pub get
+```
+
+4. ##### Start the emulator or connect your physical device with a USB to your PC or Notebook and put it in MTP mode:
+![mqdefault](https://user-images.githubusercontent.com/65248543/179034040-b8db088e-2e58-49b4-8db2-a39e626c5052.jpg)
+
+5. ##### Then type the following command:
+```
+$ flutter run
+```
+
+6. ##### Give the repository a star, please. ⭐
+
+##
+## 🤓 Author(s)
+##### João Lucas Ávila 
+
+![avatar-200x200](https://user-images.githubusercontent.com/65248543/179042257-ea95098e-2734-4c08-a240-c121c6e87acd.png)
+
+[<img src="https://img.shields.io/badge/-Instagram-purple"/>](https://www.instagram.com/avila_jao/)
+[![badge-github](https://img.shields.io/github/followers/jolucas245?style=social)](https://github.com/jolucas245/)
