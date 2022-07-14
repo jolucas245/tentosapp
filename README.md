@@ -8,7 +8,10 @@ Star ⭐ the repo if you like what you see 😄.
 
 ![banner](https://user-images.githubusercontent.com/65248543/178626556-c6c91706-b03e-4116-bc8b-99619e6095c0.png)
 
-A stupidly minimalistic and beautiful app to score Brazilian Truco points
+## ✅ Requirements for running in debug mode 
+* Any Operating System (ie. MacOS X, Linux, Windows) 
+* Any IDE with <a href="https://flutter.dev/">Flutter SDK</a> installed (ie. IntelliJ, Android Studio, VSCode etc)
+* 
 ##
 [<img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge"/>](https://github.com/jolucas245/tentosapp/blob/main/LICENSE)
 [<img src="https://img.shields.io/badge/Language-Dart-lightblue?style=for-the-badge"/>](https://dart.dev)
