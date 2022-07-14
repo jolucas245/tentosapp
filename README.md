@@ -13,6 +13,7 @@ Star ⭐ the repo if you like what you see 😄.
 * Any IDE with <a href="https://flutter.dev/">Flutter SDK</a> installed (ie. IntelliJ, Android Studio, VSCode etc)
 * An <a href="https://www.softwaretestinghelp.com/android-emulators/">emulator</a> with Android or iOS
 * An <a href="https://www.softwaretestinghelp.com/android-emulators/">Android or iOS emulator</a>, or a <a href="https://stackoverflow.com/questions/54444538/how-do-i-run-test-my-flutter-app-on-a-real-device">physical device</a> with developer mode enabled
+* A thinking brain 🧠
 ##
 [<img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge"/>](https://github.com/jolucas245/tentosapp/blob/main/LICENSE)
 [<img src="https://img.shields.io/badge/Language-Dart-lightblue?style=for-the-badge"/>](https://dart.dev)
