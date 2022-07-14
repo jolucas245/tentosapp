@@ -14,9 +14,12 @@ Star ⭐ the repo if you like what you see 😄.
 
 ## Technologies Used
 [<img src="https://img.shields.io/badge/LICENSE-WTFPL-green?style=for-the-badge"/>](https://github.com/jolucas245/tentosapp/blob/main/LICENSE)
-[<img src="https://img.shields.io/badge/Language-Dart-lightblue?style=for-the-badge"/>](https://dart.dev)<br>
+[<img src="https://img.shields.io/badge/Language-Dart-skyblue?style=for-the-badge"/>](https://dart.dev)
 [<img src="https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge"/>](https://flutter.dev)
+[<img src="https://img.shields.io/badge/State Management-SetState-red?style=for-the-badge"/>](https://flutter.dev)
+[<img src="https://img.shields.io/badge/Software Arch.-MVC-yellow?style=for-the-badge"/>](https://flutter.dev)
 [<img src="https://img.shields.io/badge/Code E.-VSCODE-darkblue?style=for-the-badge"/>](https://flutter.dev)
+[<img src="https://img.shields.io/badge/OS-Arch Linux-cyan?style=for-the-badge"/>](https://flutter.dev)
 =======
 ![banner](https://user-images.githubusercontent.com/65248543/178626556-c6c91706-b03e-4116-bc8b-99619e6095c0.png)
 
