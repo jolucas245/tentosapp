@@ -12,10 +12,14 @@ Star ⭐ the repo if you like what you see 😄.
     </tr>
 </table>
 
+<<<<<<< HEAD
 ## Technologies Used
 [<img src="https://img.shields.io/badge/LICENSE-WTFPL-green?style=for-the-badge"/>](https://github.com/jolucas245/tentosapp/blob/main/LICENSE)
 [<img src="https://img.shields.io/badge/Language-Dart-lightblue?style=for-the-badge"/>](https://dart.dev)
 [<img src="https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge"/>](https://flutter.dev)
+=======
+![banner](https://user-images.githubusercontent.com/65248543/178626556-c6c91706-b03e-4116-bc8b-99619e6095c0.png)
+>>>>>>> 7f903bc9c985a525ea95702b798c8b95081ceca2
 
 ## ✅ Requirements or Running in Debug Mode 
 * Any Operating System (ie. MacOS X, Linux, Windows) 
@@ -31,4 +35,10 @@ Star ⭐ the repo if you like what you see 😄.
 ## How to running on Debug Mode
 >Debug mode will be used if you want to fork the repository and/or modify the code with your ideas, or whatever, be damned. The tutorial below shows what you should do to run in debug mode. TRUCO
 
+<<<<<<< HEAD
 ![banner](https://user-images.githubusercontent.com/65248543/178626556-c6c91706-b03e-4116-bc8b-99619e6095c0.png)
+=======
+[<img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge"/>](https://github.com/jolucas245/tentosapp/blob/main/LICENSE)
+[<img src="https://img.shields.io/badge/Language-Dart-lightblue?style=for-the-badge"/>](https://dart.dev)
+[<img src="https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge"/>](https://flutter.dev)
+>>>>>>> 7f903bc9c985a525ea95702b798c8b95081ceca2
