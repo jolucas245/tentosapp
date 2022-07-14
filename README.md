@@ -19,7 +19,6 @@ Star ⭐ the repo if you like what you see 😄.
 [<img src="https://img.shields.io/badge/Code E.-VSCODE-darkblue?style=for-the-badge"/>](https://flutter.dev)
 =======
 ![banner](https://user-images.githubusercontent.com/65248543/178626556-c6c91706-b03e-4116-bc8b-99619e6095c0.png)
->>>>>>> 7f903bc9c985a525ea95702b798c8b95081ceca2
 
 ## ✅ Requirements or Running in Debug Mode 
 * Any Operating System (ie. MacOS X, Linux, Windows) 
