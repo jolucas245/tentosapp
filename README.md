@@ -70,7 +70,7 @@ $ flutter run
 ## 🤓 Author(s)
 ##### João Lucas Ávila 
 
-![avatar2-meio-meio](https://user-images.githubusercontent.com/65248543/179643035-845c25bd-35b7-474c-8c65-31e55ca356f6.png
+![avatar2-meio-meio](https://user-images.githubusercontent.com/65248543/179643035-845c25bd-35b7-474c-8c65-31e55ca356f6.png)
 
 [<img src="https://img.shields.io/badge/-Instagram-purple"/>](https://www.instagram.com/avila_jao/)
 [![badge-github](https://img.shields.io/github/followers/jolucas245?style=social)](https://github.com/jolucas245/)
