@@ -16,10 +16,10 @@ Star ⭐ the repo if you like what you see 😄.
 [<img src="https://img.shields.io/badge/LICENSE-WTFPL-green?style=for-the-badge"/>](https://github.com/jolucas245/tentosapp/blob/main/LICENSE)
 [<img src="https://img.shields.io/badge/Language-Dart-skyblue?style=for-the-badge"/>](https://dart.dev)
 [<img src="https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge"/>](https://flutter.dev)
-[<img src="https://img.shields.io/badge/State Management-SetState-red?style=for-the-badge"/>](https://flutter.dev)
-[<img src="https://img.shields.io/badge/Software Arch.-MVC-yellow?style=for-the-badge"/>](https://flutter.dev)
-[<img src="https://img.shields.io/badge/Code E.-VSCODE-darkblue?style=for-the-badge"/>](https://flutter.dev)
-[<img src="https://img.shields.io/badge/OS-Arch Linux-cyan?style=for-the-badge"/>](https://flutter.dev)
+[<img src="https://img.shields.io/badge/State Management-SetState-red?style=for-the-badge"/>](https://api.flutter.dev/flutter/widgets/State/setState.html)
+[<img src="https://img.shields.io/badge/Software Arch.-MVC-yellow?style=for-the-badge"/>](https://www.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained/)
+[<img src="https://img.shields.io/badge/Code E.-VSCODE-darkblue?style=for-the-badge"/>](https://code.visualstudio.com)
+[<img src="https://img.shields.io/badge/OS-Arch Linux-cyan?style=for-the-badge"/>](https://archlinux.org)
 =======
 
 ## ✅ Requirements or Running in Debug Mode 
